@@ -5,7 +5,7 @@
 * Python 3
 * Pip
 
-```python3
+```bash
 pip3 install --user flask sqlalchemy flask-sqlalchemy
 ```
 
